@@ -12,7 +12,7 @@ import com.jasper.tmall.util.PortUtil;
 @EnableJpaRepositories(basePackages = {"com.jasper.tmall.dao", "com.jasper.tmall.pojo"})
 public class Application {
 //   static {
-//        PortUtil.checkPort(6379,"Redis 服务端",true);
+//       PortUtil.checkPort(6379,"Redis 服务端",true);
 //       PortUtil.checkPort(9300,"ElasticSearch 服务端",true);
 //       PortUtil.checkPort(5601,"Kibana 工具", true);
 //    }
